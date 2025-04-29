@@ -7,7 +7,7 @@
 - 📫 The best way to reach me is by email at **vrb9e@virginia.edu**
 - Pronouns: she/her
 
-- **Fun fact**: I am Virginia from Virginia, who earned a B.A. in Biology from Virginia, has worked at Virginia (UVA Health), and is now pursuing an MS in Data Science at Virginia. 
+- **Fun fact**: I am from Virginia, earned a B.A. in Biology from Virginia, have worked at Virginia (UVA Health), and am now pursuing an MS in Data Science at Virginia. 
 
 <!---
 virginia-vrb9e/virginia-vrb9e is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

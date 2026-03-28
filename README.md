@@ -7,7 +7,7 @@ My primary interests include how data science and AI will be used in medical res
 I have worked for the university as a student researcher and data analyst.  I am currently pursuing an MS in Data Science at the School of Data Science.
 
 #### My current projects include:
-  - **Deep Learning with CNN+** [A Deep Learning Model for Skin Lesion Classification](https://github.com/virginia-vrb9e/isic2019-skin-lesion-classification)
+  - **Deep Learning (CNN +)** [A Deep Learning Model for Skin Lesion Classification](https://github.com/virginia-vrb9e/isic2019-skin-lesion-classification)
   - **Machine Learning** [A Machine Learning Model Examining the Relationship Between Preventative Health Measures, Social Determinants of Health, and Environmental Toxicity in Disease](https://github.com/virginia-vrb9e/DS5003-US-Health-Risks-from-Environmental-Exposure)
 
 #### Past projects have included: 

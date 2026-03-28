@@ -8,7 +8,7 @@ I have worked for the university as a student researcher and data analyst.  I am
 
 #### My current projects include:
   - **Deep Learning (CNN +)** [A Deep Learning Model for Skin Lesion Classification](https://github.com/virginia-vrb9e/isic2019-skin-lesion-classification)
-  - **Machine Learning** [A Machine Learning Model Examining the Relationship Between Preventative Health Measures, Social Determinants of Health, and Environmental Toxicity in Disease](https://github.com/virginia-vrb9e/DS5003-US-Health-Risks-from-Environmental-Exposure)
+  - **Machine Learning** [Predicting Chronic Disease with Preventative, SDOH, and Environmental Toxicity (CDC + EPA)](https://github.com/virginia-vrb9e/DS5003-US-Health-Risks-from-Environmental-Exposure)
 
 #### Past projects have included: 
 - [Haiti Disaster Response Classification Model](https://github.com/virginia-vrb9e/DS6030_HaitiProject_Team1)
